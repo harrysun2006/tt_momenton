@@ -5,7 +5,7 @@ Build an organisation chart from input data
 - [Install JDK 12](https://www.oracle.com/java/technologies/javase/jdk12-archive-downloads.html)
 - [Install Gradle](https://gradle.org/install/)
 - [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-- Clone this repo `git clone `
+- Clone this repo `git clone https://github.com/harrysun2006/tt_momenton.git`
 
 ### Build
 ```
