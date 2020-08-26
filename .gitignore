@@ -1,0 +1,10 @@
+*.iml
+/.gradle/
+/.idea/
+/.history/
+/build/
+/logs/
+/out/
+/reports/
+/temp/
+*.jar
